@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id ="Prototype1"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Prototype1</name>
+
+  <description>
+      Generated with Justinmind
+  </description>
+
+  <author href="" email="rmsharks4@gmail.com">
+      rmsharks4@gmail.com
+  </author>
+  <preference name="android-targetSdkVersion" value="26" />
+  
+
+</widget>
